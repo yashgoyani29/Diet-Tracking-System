@@ -1,0 +1,6 @@
+Oatmeal with Banana|250|6|45|3
+Vegetable Stir-fry|300|12|55|5
+Brocoli soup & Salad|380|40|25|8
+Oatmeal with Banana|250|6|45|3
+Salmon & Quinoa|450|42|50|10
+Brocoli soup & Salad|380|40|25|8

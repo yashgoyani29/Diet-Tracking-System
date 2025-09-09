@@ -1,0 +1,2 @@
+Grilled Sandwich & Rice|400|40|50|8
+Brocoli soup & Salad|380|40|25|8
